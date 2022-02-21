@@ -649,12 +649,12 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ## home page:
-![output](bprdwebsite\static\img\home1.png)
-![output](bprdwebsite\static\img\home2.png)
+![output](./home1.png)
+![output](./home2.png)
 ## about us:
-![output](bprdwebsite\static\img\about.png)
+![output](./about.png)
 ## general message :
-![output](bprdwebsite\static\img\gen.png)
+![output](./gen.png)
 
 ## Result:
 Thus a website has been designed using bootstrap framework
